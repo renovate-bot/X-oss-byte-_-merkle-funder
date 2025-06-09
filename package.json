@@ -77,14 +77,14 @@
     "typescript": "^5.1.6"
   },
   "dependencies": {
-    "@api3/airnode-protocol-v1": "^2.8.0",
-    "@api3/airnode-utilities": "^0.12.0",
-    "@api3/airnode-validator": "^0.12.0",
+    "@api3/airnode-protocol-v1": "^2.10.0",
+    "@api3/airnode-utilities": "^0.15.0",
+    "@api3/airnode-validator": "^0.15.0",
     "@api3/promise-utils": "^0.4.0",
-    "@ethersproject/abi": "^5.7.0",
-    "@ethersproject/providers": "^5.7.2",
-    "@openzeppelin/merkle-tree": "^1.0.5",
-    "ethers": "^5.7.2",
+    "@ethersproject/abi": "^5.8.0",
+    "@ethersproject/providers": "^5.8.0",
+    "@openzeppelin/merkle-tree": "^1.0.8",
+    "ethers": "^5.8.0",
     "lodash": "^4.17.21",
     "zod": "^3.21.4"
   }
